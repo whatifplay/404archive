@@ -1,0 +1,6 @@
+V6 ONLINE
+1. Execute setup.sql uma vez no SQL Editor de um projeto Supabase novo.
+2. Authentication > URL Configuration: configure Site URL e Redirect URLs para o endereço exato do Live Server (ex.: http://127.0.0.1:5500/).
+3. Mantenha confirmação de email habilitada. Abra index.html pelo Live Server.
+4. Cadastre uma conta nova, confirme o email e teste o login e a resolução de um caso.
+Contas antigas locais não são migradas. XP validado pelo servidor, mas respostas ainda visíveis no código. Progresso auxiliar usa último salvamento; evite editar simultaneamente em dispositivos diferentes. Aguarde sincronização antes de fechar. Não testado contra o projeto remoto.
